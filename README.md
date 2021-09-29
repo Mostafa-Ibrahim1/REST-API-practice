@@ -32,6 +32,5 @@ Blog:
 ## To be done:
 - Refactor it and make more layers
 - Better Error Handling
-- Better naming for variables and functions
 - Add new features:
 1- Sorting features 2- Comment on a Blog
