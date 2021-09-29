@@ -1,6 +1,6 @@
 # Blog REST API
 
-This a simple blog api developed for practice purposes using Node.js,Express and MongoDB.<br>
+This a simple blog api developed using Node.js,Express and MongoDB. (practice)<br>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=40 height=40 />
