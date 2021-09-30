@@ -12,7 +12,7 @@ const userSchema = mongoose.Schema(
   },
   { timestamps: true }
 );
-//findByIdAndUpdate
+
 userSchema.pre("save", function (next) {
   const user = this;
   if (!this.isModified("password")) {
