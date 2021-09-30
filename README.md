@@ -30,8 +30,8 @@ Blog:
 - [x] Delete a Blog Post
 
 ---
-- [x] Link the authenticated User with the blogs he created ( referenced using their ObjectId in the User document in an array (one-to-many) )
-- [x] Link the blog with creator of it ( referenced using the user's ObjectId (one-to-one) )
+- [x] Link the authenticated User with the blogs he created ( referenced using their ObjectId in the User document in an array )
+- [x] Link the blog with creator of it ( referenced using the user's ObjectId )
 
 ## To be done:
 - Refactor it and make more layers
