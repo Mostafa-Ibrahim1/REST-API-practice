@@ -1,12 +1,10 @@
-# Blog REST API
+# Blog REST API Practice
 
 This is a simple blog api developed using Node.js,Express and MongoDB.<br>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width=40 height=40 />
-
-
 
 ## Features:
 
@@ -20,6 +18,7 @@ User:
 - [x] Delete User Account
 
 ---
+
 Blog:
 
 - [x] User needs to be authenticated to access any of ("/blog" mounted)
@@ -30,11 +29,13 @@ Blog:
 - [x] Delete a Blog Post
 
 ---
+
 - [x] Link the authenticated User with the blogs he created ( referenced using their ObjectId in the User document in an array )
 - [x] Link the blog with creator of it ( referenced using the user's ObjectId )
 
 ## To be done:
+
 - Refactor it and make more layers
 - Better Error Handling
 - Add new features:
-1- Sorting features 2- Comment on a Blog
+  1- Sorting features 2- Comment on a Blog
