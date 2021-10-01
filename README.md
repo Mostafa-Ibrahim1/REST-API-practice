@@ -23,7 +23,7 @@ Blog:
 
 - [x] User needs to be authenticated to access any of ("/blog" mounted)
 - [x] Create a new Blog Post
-- [x] Read all Blog Posts created + Pagination + Sorted by recent
+- [x] Read all Blog Posts created + Pagination + Sorted by recently posted
 - [x] Read a specific Blog Post by id
 - [x] Update a Blog Post
 - [x] Delete a Blog Post
