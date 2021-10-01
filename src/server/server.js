@@ -1,5 +1,5 @@
 const express = require("express");
-const { connectToMongoDB } = require("../config/mongoose");
+const connectToMongoDB = require("../config/mongoose");
 const app = express();
 const port = process.env.PORT || 3000;
 const blogRoute = require("../resources/blog-post/blog-post-route");
