@@ -13,7 +13,7 @@ app.use("/blog", protect, blogRoute);
 
 exports.start = async () => {
   app.listen(port, () => {
-    console.log("Server is up!");
+    console.log(`Server is up on ${port}`);
   });
   await connectToMongoDB();
 };
